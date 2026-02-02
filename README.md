@@ -1,5 +1,3 @@
-# E-Commerce Spring Boot (Stripe) — `README.md`
-
 ## Overview
 Simple Java Spring Boot e-commerce demo integrating Stripe Checkout. Backend endpoint used by the frontend `src/main/resources/templates/index.html` to create Stripe Checkout sessions.
 
