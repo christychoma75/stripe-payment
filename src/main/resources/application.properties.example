@@ -1,0 +1,6 @@
+spring.application.name=stripe-payment
+
+# Store your Stripe secret key in application.properties.local (gitignored)
+# DO NOT commit secrets to the repository
+stripe.secretKey=YOUR_STRIPE_SECRET_KEY_HERE
+
